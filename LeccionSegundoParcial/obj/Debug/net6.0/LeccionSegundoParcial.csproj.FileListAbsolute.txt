@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\bin\Debug\net6.0\LeccionSegundoParcial.exe
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\bin\Debug\net6.0\LeccionSegundoParcial.deps.json
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\bin\Debug\net6.0\LeccionSegundoParcial.runtimeconfig.json
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\bin\Debug\net6.0\LeccionSegundoParcial.dll
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\bin\Debug\net6.0\ref\LeccionSegundoParcial.dll
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\bin\Debug\net6.0\LeccionSegundoParcial.pdb
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.dll
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\ref\LeccionSegundoParcial.dll
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.pdb
+C:\Users\CompuStore\source\repos\LeccionSegundoParcial\LeccionSegundoParcial\obj\Debug\net6.0\LeccionSegundoParcial.genruntimeconfig.cache
